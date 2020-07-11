@@ -1,6 +1,16 @@
 ### This will be fun
 
 
+
+## About me
+I currently work at NOLA Public Schools on data architecture and analytics.
+Before that I was a Director of Data and Technology at the D.C. Policy Center and
+a Research Associate at RAND Corporation.
+
+## Interests
+
+
+
 Cool new feature, should be fun to play around with.
 
 
