@@ -1,54 +1,3 @@
-<style>
-.card {
-    transition: 0.3s;
-    background-color: white;
-    margin: 5%;
-    overflow: hidden;
-    height:
-}
-.flatcard {
-    transition: 0.3s;
-    background-color: white;
-    margin: 5%;
-    overflow: hidden;
-    height:
-}
-.card:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-}
-.flatcard:hover {
-  color:blue;
-}
-.container {
-    padding: 10px 16px;
-    background-color: :white;
-}
-a:link {
-    text-decoration: none;
-}
-img.card-left {
-  float:left;
-   position: relative;
-   width: 20%;
-   padding-right:5%;
-}
-img.card-right {
-  float:right;
-   position: relative;
-   width: 20%;
-   padding-left:5%;
-}
-img.bar-card-left {
-  float:left;
-   position: relative;
-   width: 1%;
-   height: 100%;
-   background-color: blue;
-   padding-right:5%;
-}
-</style>
-
-
 ### This will be fun
 
 
@@ -58,23 +7,30 @@ I currently work at NOLA Public Schools on data architecture and analytics.
 Before that I was a Director of Data and Technology at the D.C. Policy Center and
 a Research Associate at RAND Corporation.
 
+I currently maintain a website at https://m-watson.github.io.
 
 
 
-## Interests
+## Research
+What type of CTO Does D.C. Need?
 
-<a href="https://www.dcpolicycenter.org/publications/type-cto-dc-need/">
-  <div class="card">
-   <img class="card-left" src="https://www.dcpolicycenter.org/wp-content/uploads/2017/12/tech-meetup.jpg" alt="Avatar">
-   <div class="container">
-     <h4><b>What type of CTO does D.C. Need?</b></h4>
-     <p>D.C.'s Chief Technology Officer (CTO), Archana Vemulapalli, recently announced that she will step down in January 2018. In her 21 months of service to this city, Vemulapalli has led the development of a new data policy; hired D.C.'s first Chief Data Officer (CDO); and brought the city into the forefront of east coast technology culture through the Startup in Residence program, among other accomplishments.
-     </p></div>
-  </div>
-</a>
+Wearable Technologies for Law Enforcement: Multifunctional Vest System Options
+
+Diving into D.C.'s data policy
+
+Direct measurements of multi-photon induced nonlinear lattice dynamics in semiconductors via time-resolved x-ray scattering
+
+Defining the Roles, Responsibilities, and Functions for Data Science Within the Defense Intelligence Agency
+
+A Framework for Programming and Budgeting for Cybersecurity
+
+Thermal conductivity of monolayer molybdenum disulfide obtained from temperature-dependent Raman spectroscopy
+
+Temperature and power dependent photothermal properties of single-layer MoS<sub>2</sub>
+
+EPICS oscilloscope for time-resolved data acquisition
 
 
-Cool new feature, should be fun to play around with.
 
 
 
