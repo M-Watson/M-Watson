@@ -11,7 +11,8 @@ I currently maintain a website at https://m-watson.github.io.
 
 
 
-## Research
+<details>
+<summary markdown="span"> Research </summary>
 What type of CTO Does D.C. Need?
 
 Wearable Technologies for Law Enforcement: Multifunctional Vest System Options
@@ -30,6 +31,7 @@ Temperature and power dependent photothermal properties of single-layer MoS<sub>
 
 EPICS oscilloscope for time-resolved data acquisition
 
+</details>
 
 
 
