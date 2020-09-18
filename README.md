@@ -1,6 +1,3 @@
-### This will be fun
-
-
 
 ## About me
 I currently work at NOLA Public Schools on data architecture and analytics.
@@ -33,7 +30,16 @@ EPICS oscilloscope for time-resolved data acquisition
 
 </details>
 
-
+<details>
+  <summary markdown="span"> Technical Skills </summary>
+  ## Programming Languages
+  Python
+  
+  ## Tools
+  Wordpress
+  
+  Salesforce
+</details>
 
 
 <!--
