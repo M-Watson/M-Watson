@@ -32,8 +32,17 @@ EPICS oscilloscope for time-resolved data acquisition
 
 <details>
   <summary markdown="span"> Technical Skills </summary>
+  
   ## Programming Languages
   Python
+  
+  PHP
+  
+  Go
+  
+  HTML/CSS
+  JavaScript
+  TypeScript
   
   ## Tools
   Wordpress
