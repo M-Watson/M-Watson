@@ -1,6 +1,5 @@
-
 ## About me
-I currently work at NOLA Public Schools on data architecture and analytics.
+I currently work at NOLA Public Schools on data architecture and analytics. 
 Before that I was a Director of Data and Technology at the D.C. Policy Center and
 a Research Associate at RAND Corporation.
 
@@ -48,6 +47,18 @@ EPICS oscilloscope for time-resolved data acquisition
   Wordpress
   
   Salesforce
+</details>
+
+<details>
+<summary markdown="span"> Education </summary>
+
+## Applied Physics, Professional Science Masters
+### Towson University, 2013
+
+## Physics, B.S.
+### DePaul University, 2012
+
+
 </details>
 
 
