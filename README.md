@@ -55,9 +55,11 @@ EPICS oscilloscope for time-resolved data acquisition
 ## Applied Physics, Professional Science Masters
 ### Towson University, 2013
 
+
+
 ## Physics, B.S.
 ### DePaul University, 2012
-
+Minor in Math
 
 </details>
 
